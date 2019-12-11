@@ -352,9 +352,6 @@ const TypeDefine = {
     boolean: 3,
     date: 4,
 
-    constant: 5,
-    array: 6,
-
     string_or_null: 10,
     number_or_null: 11,
     int_or_null: 12,

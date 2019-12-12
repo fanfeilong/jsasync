@@ -48,3 +48,6 @@ check.object({
    g: {nullable:true, a:typedef.int, b:typedef.string}
 });
 ```
+
+## references
+* [json-schema](https://json-schema.org/learn/getting-started-step-by-step.html)
